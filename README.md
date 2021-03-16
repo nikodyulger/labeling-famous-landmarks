@@ -1,2 +1,2 @@
-# labelling-famous-landmarks
+# Labelling Famous Landmarks
 Data science final degree project
