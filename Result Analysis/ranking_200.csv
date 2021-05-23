@@ -1,0 +1,5 @@
+,kind,learning_rate,optimizer,val_acc,val_GAP,train_acc,train_GAP,batch,img_size,model
+6,VGG_feature_extraction,0.0001,Adam,0.616,0.388,1.0,0.999,512.0,128.0,/content/drive/MyDrive/4º de Carrera/TFG/Models/VGG16_feature_extraction_6.h5
+7,VGG_fine_tuning,0.0001,RMSprop,0.715,0.522,1.0,1.0,256.0,128.0,/content/drive/MyDrive/4º de Carrera/TFG/Models/VGG16_fine_tuning_7.h5
+2,Xception_feature_extraction,0.0001,Adam,0.599,0.377,0.968,0.9390000000000001,256.0,128.0,/content/drive/MyDrive/4º de Carrera/TFG/Models/Xception_feature_extraction_2.h5
+5,Xception_fine_tuning,0.0001,RMSprop,0.6829999999999999,0.474,0.8490000000000001,0.7240000000000001,512.0,128.0,/content/drive/MyDrive/4º de Carrera/TFG/Models/Xception_fine_tuning_5.h5
